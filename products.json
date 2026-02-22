@@ -26,6 +26,10 @@
     "sports": {
       "count": 1,
       "inventoryValue": 6807.92
+    },
+    "electronics": {
+      "count": 2,
+      "inventoryValue": 58404.03
     }
   }
 }

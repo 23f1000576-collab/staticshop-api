@@ -23,25 +23,25 @@
     {"id":"prod-887bee77-017","name":"Standard Item 17","category":"home","price":407.44,"stock":158,"rating":4.6}
   ],
   "aggregations": {
-    "books": {
-      "count": 3,
-      "inventoryValue": 65449.49
-    },
     "clothing": {
       "count": 5,
-      "inventoryValue": 178089.77
+      "inventoryValue": 169867.75
     },
     "electronics": {
       "count": 2,
       "inventoryValue": 58404.03
     },
-    "home": {
-      "count": 6,
-      "inventoryValue": 169305.94
-    },
     "sports": {
       "count": 1,
       "inventoryValue": 6807.92
+    },
+    "books": {
+      "count": 3,
+      "inventoryValue": 65449.49
+    },
+    "home": {
+      "count": 6,
+      "inventoryValue": 169305.94
     }
   }
 }
